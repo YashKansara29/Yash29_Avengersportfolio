@@ -12,7 +12,7 @@ Welcome to my Avengers-themed portfolio website! 🚀 This site showcases my pro
 
 ## Demo
 
-Check out the live version of the website: [https://yashk29.github.io/Yash29_portfolio/](https://yashk29.github.io/Yash29_Avengersportfolio/)
+Check out the live version of the website: [(https://yashkansara29.github.io/Yash29_Avengersportfolio/)]
 
 ## Installation
 
